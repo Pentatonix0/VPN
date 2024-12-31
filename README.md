@@ -1,1 +1,1 @@
-# VPN
+vless://106378bf-58a1-4eb5-b2f8-b1d70bcd13b9@147.45.231.194:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=discordapp.com&pbk=dIsB7jVa6mGyL8rkkCSmDo3fF6vcRQl7U8yp0Qc05gc&sid=988e84003cf9db02#testnew
